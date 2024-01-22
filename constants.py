@@ -1,9 +1,9 @@
-CLIENT_ID = ""
-CLIENT_SECRET = ""
-API_ID = 0
-API_HASH = ""
-INITIAL_TOKEN = ""
-INITIAL_BIO = ""
+CLIENT_ID = "f145532eca7343bc9e6a8fb064dff850"
+CLIENT_SECRET = "fc8fb2d3f045437c9e6d12abf7b8c879"
+API_ID = 13717481
+API_HASH = "b7fcf88e3a231f780173b603130ce8e1"
+INITIAL_TOKEN = "AQBqMJ0ePjr2i_9ROK1v9ML9bEctOq2-XksToJmdnmgTVerlJFoWBotknl0N3-yU4CAInb6tkmfiGZNL4cK7bqh2yWedvSKQtYa-xLUzgexU5NMx4zsZNPWcu8X7I6ef91U0eAyD4xuDSJULgW312ZqKkiS1tW5Ezb-RQlqqj9NrU27p_KtAz_QmneosxL-6Y_6FQFAzmm06B0iXlgDSYhs7y5qmRujF9H8_sMX9"
+INITIAL_BIO = "shokr..."
 LOG = "me"
 # the escaping is necessary since we are testing against a regex pattern with it.
 SHUTDOWN_COMMAND = "\/\/stop"
